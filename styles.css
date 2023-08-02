@@ -20,7 +20,11 @@ img {
     margin-bottom: 20px;
 }
 
-h1 h2 {
+h2 {
+    color: #007bff;
+}
+
+h1 {
     color: #007bff;
 }
 
